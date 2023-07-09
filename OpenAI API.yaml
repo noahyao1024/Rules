@@ -1,0 +1,3 @@
+payload:
+# > OpenAI API only
+  - DOMAIN,api.openai.com
